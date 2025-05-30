@@ -1,12 +1,13 @@
 [
   {
-    "id": 7731245060,
-    "name": "SevenDev",
-    "limit": 99999
-  },
-  {
-    "id": ,
-    "name": "",
-    "limit": 
+      ownerid = [
+    "7731245060"
+      ];
+
+    tokenbot = [
+    "7618487927:AAGdBVI2Uiqg6EJuhcTFAOlw1Eu2hVIl5u8"
+    ];
+
   }
 ]
+    
